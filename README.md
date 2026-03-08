@@ -1,4 +1,4 @@
-# minishell
+# Minishell
 
 A simplified Unix shell implemented in C, built as a project at 42 Antananarivo. The goal is to recreate a minimal but functional version of **bash**, handling user input, executing commands, and managing processes — all from scratch (on top of a custom `libft`).
 
@@ -92,5 +92,5 @@ minishell$> exit
 
 ## Authors
 
-- **riramana** — [42 Antananarivo](https://42.fr)
-- **andyandr** — [42 Antananarivo](https://42.fr)
+- **riramana** 
+- **andyandr** 
