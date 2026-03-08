@@ -2,6 +2,10 @@
 
 A simplified Unix shell implemented in C, built as a project at 42 Antananarivo. The goal is to recreate a minimal but functional version of **bash**, handling user input, executing commands, and managing processes — all from scratch (on top of a custom `libft`).
 
+## Screenshots
+
+![MShell](screenshots/Quieres.png)
+
 ## Description
 
 **minishell** is an interactive command-line interpreter that replicates core behaviors of bash. It reads user input via `readline`, parses and expands it, then executes the resulting commands — whether they are built-in or external programs found in `$PATH`.
