@@ -70,7 +70,7 @@ Available Makefile targets:
 ./minishell
 ```
 
-The shell accepts no arguments. Once launched, type commands at the `minishell$>` prompt just as you would in bash..
+The shell accepts no arguments. Once launched, type commands at the `minishell$>` prompt just as you would in bash...
 
 ### Usage examples
 
