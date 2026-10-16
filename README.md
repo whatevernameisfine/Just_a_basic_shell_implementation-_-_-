@@ -100,7 +100,7 @@ Available Makefile targets:
 
 The shell accepts no arguments.
 
-Once launched, type commands at the `minishell$>` prompt just as you would in bash, except now every pipe, redirection, and signal handling issue becomes your personal responsibility.
+Once launched, type commands at the `minishell$>` prompt just as you would in bash, except now every pipe, redirection, and signal handling issue becomes your personal responsibility
 
 ---
 
