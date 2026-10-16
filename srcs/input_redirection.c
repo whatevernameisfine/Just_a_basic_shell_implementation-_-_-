@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   input_redirection.c                                :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: andyandr <andyandr@student.42antananari    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/12/14 06:11:57 by riramana          #+#    #+#             */
-/*   Updated: 2026/01/11 16:27:21 by andyandr         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "../includes/minishell.h"
 
 static char	*get_and_validate_delimiter(char *line, int *i)

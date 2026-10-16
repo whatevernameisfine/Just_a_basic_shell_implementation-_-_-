@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   pipeline_setup.c                                   :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: riramana <riramana@student.42antananari    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/12 09:49:52 by riramana          #+#    #+#             */
-/*   Updated: 2026/01/11 18:49:08 by riramana         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "../includes/minishell.h"
 
 static void	free_alloc_arrays(t_pipeline_data *data)

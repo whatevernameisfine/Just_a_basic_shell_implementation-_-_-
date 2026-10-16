@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   redirection_extras.c                               :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: andyandr <andyandr@student.42antananari    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/12/11 12:42:13 by riramana          #+#    #+#             */
-/*   Updated: 2026/01/16 17:33:14 by riramana         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "../includes/minishell.h"
 
 int	has_more_output_redirections(char *line, int start_pos)

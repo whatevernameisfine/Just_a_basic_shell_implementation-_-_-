@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   utils6.c                                           :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: andyandr <andyandr@student.42antananari    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/12/14 06:55:13 by riramana          #+#    #+#             */
-/*   Updated: 2026/01/11 16:16:43 by andyandr         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "../includes/minishell.h"
 
 int	handle_pipeline_command(char *command, t_shell_data *data)

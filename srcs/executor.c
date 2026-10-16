@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   executor.c                                         :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: andyandr <andyandr@student.42antananari    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/12 14:58:06 by riramana          #+#    #+#             */
-/*   Updated: 2026/03/08 11:22:20 by riramana         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "../includes/minishell.h"
 
 static int	handle_exit_builtin(char **cmd_args, t_shell_data *data)

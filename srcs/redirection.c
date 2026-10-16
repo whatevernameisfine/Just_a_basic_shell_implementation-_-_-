@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   redirection.c                                      :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: riramana <riramana@student.42antananarivo  +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/12/12 09:29:57 by riramana          #+#    #+#             */
-/*   Updated: 2026/01/03 07:39:14 by riramana         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "../includes/minishell.h"
 
 static char	*process_single_redir(char *cleaned, int i, t_redir_data *data)

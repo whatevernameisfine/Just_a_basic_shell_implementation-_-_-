@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   utils7.c                                           :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: riramana <riramana@student.42antananarivo  +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/01/03 07:19:18 by riramana          #+#    #+#             */
-/*   Updated: 2026/01/03 07:39:23 by riramana         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "../includes/minishell.h"
 
 char	*parse_input_redir_with_err(char *line, int *heredoc_fd, int *input_fd,
